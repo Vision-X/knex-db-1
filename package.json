@@ -7,7 +7,7 @@
         "start": "node index.js",
         "test": "mocha"
     },
-    "author": "Kyle Coberly",
+    "author": "Kyle Coberly & Michael Marlow",
     "license": "ISC",
     "dependencies": {
         "body-parser": "^1.18.2",
